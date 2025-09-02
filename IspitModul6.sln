@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IspitModul6", "IspitModul6.csproj", "{41089C2C-FF26-438C-8164-9FE9933A0984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IspitModul6.Tests", "..\IspitModul6.Tests\IspitModul6.Tests.csproj", "{A0C732AE-2870-400D-AFB9-C671585297AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41089C2C-FF26-438C-8164-9FE9933A0984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41089C2C-FF26-438C-8164-9FE9933A0984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41089C2C-FF26-438C-8164-9FE9933A0984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41089C2C-FF26-438C-8164-9FE9933A0984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C732AE-2870-400D-AFB9-C671585297AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C732AE-2870-400D-AFB9-C671585297AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C732AE-2870-400D-AFB9-C671585297AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C732AE-2870-400D-AFB9-C671585297AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E014B351-808A-4B85-A5E2-A73DF71E1463}
+	EndGlobalSection
+EndGlobal
